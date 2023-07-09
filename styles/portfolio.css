@@ -134,3 +134,10 @@ main{
     text-align: center;
 
 }
+#What-I-Do-description{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+}
